@@ -31,7 +31,7 @@ What is the project’s backstory?
 Why are you here? Why are you building a DAO? Why should people care? People love stories!
 
 ## Communication platforms
-* Discord
+* [Discord] (https://discord.gg/J4znnM46)
 
 ## Knowledge repository
 * GitHub

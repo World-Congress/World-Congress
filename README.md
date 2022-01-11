@@ -5,7 +5,7 @@
 WCDAO
 
 ## Describe the DAO’s goals as explicitly as possible
-Global congress for all world citizens who believe in peace, community, compassion, empathy, justice, freedom and absolute liberty.
+Global congress for all world citizens who believe in peace, community, compassion, empathy, justice, freedom and absolute liberty. We need to change the way we look at things. We have to stop looking for heroes, and start looking for partners.
 
 ## Top 3 expected principles of this organization
 * Educate
@@ -38,6 +38,7 @@ Why are you here? Why are you building a DAO? Why should people care? People lov
 * Wiki
 
 ## Community’s rhythms and rituals:
+* Weekly Space w/ Fred #ConspiracyTheories 19:00 CET / 1PM EST
 * Meetups
 * Videocalls
 * Blogposts

@@ -5,7 +5,7 @@
 WCDAO
 
 ## Describe the DAO’s goals as explicitly as possible
-Global congress for all world citizens who believe in peace, community, compassion, empathy, justice, freedom and absolute liberty. We need to change the way we look at things. We have to stop looking for heroes, and start looking for partners.
+A decentralized private equity fund, exchange and trust. It will be used to finance projects that the members of the community think are promising.
 
 ## Top 3 expected principles of this organization
 * Educate

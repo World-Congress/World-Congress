@@ -34,7 +34,7 @@ Why are you here? Why are you building a DAO? Why should people care? People lov
 * [Discord] (https://discord.gg/J4znnM46)
 
 ## Knowledge repository
-* GitHub
+* [GitHub] https://github.com/World-Congress/library
 * Wiki
 
 ## Community’s rhythms and rituals:

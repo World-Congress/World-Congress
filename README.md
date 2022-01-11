@@ -1,13 +1,12 @@
 ![World-Congress](WORLD%20CONGRESS_basic-file.png)
-# World-Congress Decentralized Autonomous Organization (WCDAO)
 
-## Name
-WCDAO
+## About the World Congress
+World Congress is a decentralized autonomous organization (DAO) that is a global community of people who want to make the world a better place.
 
-## Describe the DAO’s goals as explicitly as possible
+## What is the World Congress?
 A decentralized private equity fund, exchange and trust. It will be used to finance projects that the members of the community think are promising.
 
-## Top 3 expected principles of this organization
+## World Congress Values
 * Educate
 * Motivate
 * Create
@@ -17,42 +16,37 @@ A decentralized private equity fund, exchange and trust. It will be used to fina
 * Hiring
 * Projects
 
-## What problem do you seek to solve by deploying as a DAO?
+## Purpose of the DAO
 Democratizing Liberty
 
-## How would the world change if this DAO is successful?
-A society built on peace, community, compassion, empathy, justice, freedom, and absolute liberty. In addition to a society that protects the people, and the planet in addition to the realization of everyone’s true potential.
+## Mission Statement
+A society built on peace, community, compassion, empathy, justice, freedom, and liberty. In addition to a society that protects the people, and the planet in addition to the realization of everyone’s true potential.
 
 ## What is needed to achieve your goals with this DAO?
-Try to focus on the things you want to happen, not any specific tool or framework.
+$90,000,000.00 USD
 
-## Community
-What is the project’s backstory?
-Why are you here? Why are you building a DAO? Why should people care? People love stories!
+## The project’s backstory?
+The World Congress started as a small group of people who wanted to make the world a better place.
 
 ## Communication platforms
-* [Discord] (https://discord.gg/J4znnM46)
+* [Discord] https://discord.gg/J4znnM46
 
 ## Knowledge repository
 * [GitHub] https://github.com/World-Congress/library
-* Wiki
+* [Wiki] https://wiki.world-congress.org
 
 ## Community’s rhythms and rituals:
 * Weekly Space w/ Fred #ConspiracyTheories 19:00 CET / 1PM EST @FredDiBiaseMDM
-* Meetups
-* Videocalls
-* Blogposts
-* Podcasts
-
-## Weekly: 
-* Communty Call
+* Video Communty Call (1-2 per month)
+* Blogposts (4-5 per month)
+* Podcasts (1-2 per month)
 
 ## Who is responsible?
 * Holders of MGMT tokens govern the organisation
 * Holders of DMCRY tokens have one vote per token on all votes
 
 ## Member journey
-* Purchase DMCRY token from LibertyDET Exchange
+* Agree to the statement of intent and the mission statement to become a member, you need to agree to mint the token. The token is free.
 
 ## How do new users catch up?
 * Guides in Github Community folder

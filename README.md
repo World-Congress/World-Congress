@@ -38,7 +38,7 @@ Why are you here? Why are you building a DAO? Why should people care? People lov
 * Wiki
 
 ## Community’s rhythms and rituals:
-* Weekly Space w/ Fred #ConspiracyTheories 19:00 CET / 1PM EST
+* Weekly Space w/ Fred #ConspiracyTheories 19:00 CET / 1PM EST @FredDiBiaseMDM
 * Meetups
 * Videocalls
 * Blogposts

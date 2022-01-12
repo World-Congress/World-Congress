@@ -110,7 +110,7 @@ Persona 2
 
 Persona 3
 
-## Actors
+## Projects
 DAO functions
 What do you want your DAO to do?
 

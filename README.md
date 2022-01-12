@@ -116,7 +116,8 @@ What do you want your DAO to do?
 
 Manage assets
 
-Create community votes
+### Democracy and Governance Chain
+We are creating a DAO community voting system. We will be using the blockchain to create a voting system that is transparent and incorruptible. This will allow for decisions to be made by the community as well as provide an audit trail of all transactions on the network.
 
 Curate content
 

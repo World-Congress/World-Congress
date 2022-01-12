@@ -65,6 +65,10 @@ Key performance indicators
 What are you optimizing for?
 
 * 25% active users (per week)
+* 10%+ New members (per week)
+
+## Key Notes
+First, we need to get the word out.  There are many people who have never heard of Bitcoin or Ethereum and don't know what a DAO is. 
 
 ## Any other concrete outputs you're looking for?
 
@@ -117,7 +121,7 @@ What do you want your DAO to do?
 Manage assets
 
 ### Democracy and Governance Chain
-We are creating a DAO community voting system. We will be using the blockchain to create a voting system that is transparent and incorruptible. This will allow for decisions to be made by the community as well as provide an audit trail of all transactions on the network.
+- We are creating a DAO community voting system. We will be using the blockchain to create a voting system that is transparent and incorruptible. This will allow for decisions to be made by the community as well as provide an audit trail of all transactions on the network.
 
 Curate content
 

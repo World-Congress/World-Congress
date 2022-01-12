@@ -62,6 +62,11 @@ The World Congress started as a small group of people who wanted to make the wor
 	- We need to be able to talk about our feelings and emotions. We need to be able to tell people what we are feeling.
 	- We can make all races, religions and people feel safe and welcome by not being racist, bigoted or xenophobic.welcome by not being racist, bigoted or xenophobic.
 * Community Action Group
+	- The first step is to get a group of people together who are interested in making change. If you don't know anyone, start by posting on social media or emailing your friends and family.   You can also contact the local environmental groups to see if they have any interest in working with you on this project.
+	- We can take action by becoming more aware of the issues. We can speak out against injustice, and we can support organizations that are working to make positive change.
+	- We can also talk about the issues that are affecting us and how we can help.
+	- To make positive change, we need to be more aware of the issues that are affecting us.
+	- Action in community action groups is the most important step in the process.
 * Community Response Group
 
 ## How does a user leave? Why might they do so?

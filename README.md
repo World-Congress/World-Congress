@@ -120,7 +120,7 @@ Create community votes
 
 Curate content
 
-Create a marketplace
+- The biggest project that will benefit the ecosystem is the development of a decentralized exchange. We are currently working on this and we have already started to develop it. This will be an open source decentralized exchange, which means there won't be any central authority controlling it or having access to your funds, so you can trade safely with other users in a peer-to-peer manner without having to trust anyone else but yourself.
 
 etc..
 

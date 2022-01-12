@@ -38,12 +38,15 @@ The World Congress started as a small group of people who wanted to make the wor
 ## Community’s rhythms and rituals:
 * Weekly Space w/ Fred #ConspiracyTheories 19:00 CET / 1PM EST @FredDiBiaseMDM
 * Video Communty Call (1-2 per month)
+- The most important thing is to have a clear agenda. The agenda should include the topics that are going to be discussed and how much time will be spent on each topic.
 * Blogposts (4-5 per month)
 * Podcasts (1-2 per month)
 
 ## Who is responsible?
 * Holders of MGMT tokens govern the organisation
+- It is important to note that this token does not represent equity in any way, shape or form. It is simply a mechanism to allow people who are interested in participating in the management of the fund (and therefore have an interest and stake on its success) to do so by using their tokens as votes.
 * Holders of DMCRY tokens have one vote per token on all votes
+- This is the most important token in the system. It is the token that is used to vote on the governance of the network.
 
 ## Member journey
 * Agree to the statement of intent and the mission statement to become a member, you need to agree to mint the token. The token is free.
@@ -53,6 +56,11 @@ The World Congress started as a small group of people who wanted to make the wor
 
 ## How do you keep users engaged?
 * Community Feedback Group
+	- We have a community feedback group that meets once a week.
+	- We can listen to all members of the local community by having a public meeting and inviting everyone in the area.
+	- The rules should be simple and clear.  They should be stated in a positive way, not negative.
+	- We need to be able to talk about our feelings and emotions. We need to be able to tell people what we are feeling.
+	- We can make all races, religions and people feel safe and welcome by not being racist, bigoted or xenophobic.welcome by not being racist, bigoted or xenophobic.
 * Community Action Group
 * Community Response Group
 
@@ -81,7 +89,7 @@ What are you optimizing for?
 * [Blog]
 - I think the blog should be a place where we can share ideas and inspiration. I'd like it to be a place where people can come together, not just as members of our community but also as part of other communities that they're involved in.
 * [Podcasts]
-
+- I think we should have a podcast that is focused on the best practices of creating a better world.
 
 ## Any other concrete outputs you're looking for?
 

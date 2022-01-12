@@ -68,7 +68,20 @@ What are you optimizing for?
 * 10%+ New members (per week)
 
 ## Key Notes
-First, we need to get the word out.  There are many people who have never heard of Bitcoin or Ethereum and don't know what a DAO is. 
+- First, we need to get the word out.  There are many people who have never heard of Bitcoin or Ethereum and don't know what a DAO is.
+- The best way to get the word out is to tell your friends, family and neighbors. This is the first step.
+- We will be working on a website and other marketing materials. We'll also have an online presence at  reddit .com/r/dawc
+- To promote the DAO, we will be using the following:
+* [Discord] 
+- Be active, and be nice.  Don't ban people for being new or asking questions.  If you're a mod, don't abuse your powers (unless it's really funny).
+* [GitHub]
+- The most important thing is to be responsive
+* [Wiki]
+- We need to be careful not to create a wiki that is just a collection of information.  Information without action is useless.  A great example of this in the real world would be if we created an encyclopedia on how to build houses and then gave it away for free, but never taught anyone how to actually build them or helped people get access the materials they needed.
+* [Blog]
+- I think the blog should be a place where we can share ideas and inspiration. I'd like it to be a place where people can come together, not just as members of our community but also as part of other communities that they're involved in.
+* [Podcasts]
+
 
 ## Any other concrete outputs you're looking for?
 
